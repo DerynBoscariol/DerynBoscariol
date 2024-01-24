@@ -1,4 +1,4 @@
-<div style="background-color:#8ed1c8">
+<style>background-color:#8ed1c8</style>
 ### Hi I'm Deryn👋
 I am a Web Development student at Humber College in Toronto. I have some basic coding experience in HTML, CSS, and C++ (specifically working with Arduino) but I am excited to learn more languages. Stayed tune to my GitHub to see my skills grow! 🌱
 
