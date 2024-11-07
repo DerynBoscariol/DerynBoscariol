@@ -1,5 +1,5 @@
 ### Hi I'm Deryn👋
-I am a Web Development student at Humber College in Toronto. I have some basic coding experience in HTML, CSS, and C++ (specifically working with Arduino) but I am excited to learn more languages. Stay tuned to my GitHub to see my skills grow! 🌱
+I am a Web Development student at Humber College in Toronto. Stay tuned to my GitHub to see my skills grow! 🌱
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DerynBoscariol&theme=aura&hide_border=true&border_radius=4.8&date_format=n%2Fj%5B%2FY%5D&card_width=517)](https://git.io/streak-stats)
 ***
