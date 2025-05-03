@@ -1,7 +1,6 @@
 ### Hi I'm Deryn👋
 I am a Web Development student at Humber College in Toronto. Feel Free to explore my repos and stay tuned to my GitHub to see my skills grow! 🌱
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DerynBoscariol&theme=aura&hide_border=true&border_radius=4.8&date_format=n%2Fj%5B%2FY%5D&card_width=517)](https://git.io/streak-stats)
 ***
 ## Socials
 [![Link to my Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/derynbosco/)
